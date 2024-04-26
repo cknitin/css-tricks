@@ -22,7 +22,6 @@
 ## How to center parent and child div
 
 ```
-
 .parent
 {
         background: red;
@@ -42,15 +41,11 @@
      position: absolute;
      transform: translate(50%, 50%);   
 }
-
 ```
 
 ```
-
 <div class="parent">
     <div class="child">
-
     </div>
 </div>
-
 ```
