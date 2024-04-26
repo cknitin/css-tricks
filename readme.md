@@ -1,19 +1,17 @@
 ## How to center a div
 
-`<div class="container">
+`<div class="container">`
     
-  </div>`
+ `</div>`
 
 
-`
-  .container {
-  background-color: red;
-  height: 200px;
-  width: 200px;
+`.container {`
+  `background-color: red;`
+  `height: 200px;`
+  `width: 200px;`
+  `position: absolute;`
+  `top: 50%;`
+  `left: 50%;`
+  `transform: translate(-50%, -50%);`
+`}`
 
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-`
