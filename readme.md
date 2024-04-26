@@ -1,8 +1,11 @@
 ## How to center a div
 
-`<div class="container">`
+```
+<div class="container">
     
- `</div>`
+</div>
+
+```
 
 
 `.container {`
