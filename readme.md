@@ -1,12 +1,11 @@
 ## How to center a div
 
-'
-  <div class="container">
-        
-  </div>
-'
+`<div class="container">
+    
+  </div>`
 
-'
+
+`
   .container {
   background-color: red;
   height: 200px;
@@ -17,4 +16,4 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
-'
+`
